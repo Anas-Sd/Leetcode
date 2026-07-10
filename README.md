@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Anas-Sd/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
+| [2706-buy-two-chocolates](https://github.com/Anas-Sd/Leetcode/tree/master/2706-buy-two-chocolates) |
 ## Hash Table
 |  |
 | ------- |
@@ -44,4 +45,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Anas-Sd/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
+| [2706-buy-two-chocolates](https://github.com/Anas-Sd/Leetcode/tree/master/2706-buy-two-chocolates) |
+## Greedy
+|  |
+| ------- |
+| [2706-buy-two-chocolates](https://github.com/Anas-Sd/Leetcode/tree/master/2706-buy-two-chocolates) |
 <!---LeetCode Topics End-->
