@@ -18,10 +18,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0168-excel-sheet-column-title](https://github.com/Anas-Sd/Leetcode/tree/master/0168-excel-sheet-column-title) |
+| [0509-fibonacci-number](https://github.com/Anas-Sd/Leetcode/tree/master/0509-fibonacci-number) |
 | [1025-divisor-game](https://github.com/Anas-Sd/Leetcode/tree/master/1025-divisor-game) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0509-fibonacci-number](https://github.com/Anas-Sd/Leetcode/tree/master/0509-fibonacci-number) |
 | [1025-divisor-game](https://github.com/Anas-Sd/Leetcode/tree/master/1025-divisor-game) |
 ## Brainteaser
 |  |
@@ -61,4 +63,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0168-excel-sheet-column-title](https://github.com/Anas-Sd/Leetcode/tree/master/0168-excel-sheet-column-title) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Anas-Sd/Leetcode/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Anas-Sd/Leetcode/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
