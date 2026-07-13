@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0184-department-highest-salary](https://github.com/Anas-Sd/Leetcode/tree/master/0184-department-highest-salary) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/Anas-Sd/Leetcode/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [1045-customers-who-bought-all-products](https://github.com/Anas-Sd/Leetcode/tree/master/1045-customers-who-bought-all-products) |
 | [1211-queries-quality-and-percentage](https://github.com/Anas-Sd/Leetcode/tree/master/1211-queries-quality-and-percentage) |
