@@ -76,4 +76,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/Anas-Sd/Leetcode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Anas-Sd/Leetcode/tree/master/0509-fibonacci-number) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/Anas-Sd/Leetcode/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
