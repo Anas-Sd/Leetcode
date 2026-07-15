@@ -14,7 +14,7 @@ class Solution {
 
     static int gcd(int odd, int even)
     {
-        for(int i=Math.max(odd, even);i>=0;i--)
+        for(int i=Math.min(odd, even);i>=0;i--)
         {
             if(odd%i==0 && even%i==0)
             return i;
