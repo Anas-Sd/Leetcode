@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0168-excel-sheet-column-title](https://github.com/Anas-Sd/Leetcode/tree/master/0168-excel-sheet-column-title) |
+| [0784-letter-case-permutation](https://github.com/Anas-Sd/Leetcode/tree/master/0784-letter-case-permutation) |
 ## Recursion
 |  |
 | ------- |
@@ -86,4 +87,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Anas-Sd/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Backtracking
+|  |
+| ------- |
+| [0784-letter-case-permutation](https://github.com/Anas-Sd/Leetcode/tree/master/0784-letter-case-permutation) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0784-letter-case-permutation](https://github.com/Anas-Sd/Leetcode/tree/master/0784-letter-case-permutation) |
 <!---LeetCode Topics End-->
