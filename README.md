@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1587-bank-account-summary-ii](https://github.com/Anas-Sd/Leetcode/tree/master/1587-bank-account-summary-ii) |
 | [1633-percentage-of-users-attended-a-contest](https://github.com/Anas-Sd/Leetcode/tree/master/1633-percentage-of-users-attended-a-contest) |
 | [1661-average-time-of-process-per-machine](https://github.com/Anas-Sd/Leetcode/tree/master/1661-average-time-of-process-per-machine) |
+| [1693-daily-leads-and-partners](https://github.com/Anas-Sd/Leetcode/tree/master/1693-daily-leads-and-partners) |
 | [1907-count-salary-categories](https://github.com/Anas-Sd/Leetcode/tree/master/1907-count-salary-categories) |
 | [3220-odd-and-even-transactions](https://github.com/Anas-Sd/Leetcode/tree/master/3220-odd-and-even-transactions) |
 | [3451-find-invalid-ip-addresses](https://github.com/Anas-Sd/Leetcode/tree/master/3451-find-invalid-ip-addresses) |
