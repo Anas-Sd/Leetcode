@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/Anas-Sd/Leetcode/tree/master/0046-permutations) |
+| [0077-combinations](https://github.com/Anas-Sd/Leetcode/tree/master/0077-combinations) |
 | [0090-subsets-ii](https://github.com/Anas-Sd/Leetcode/tree/master/0090-subsets-ii) |
 | [0784-letter-case-permutation](https://github.com/Anas-Sd/Leetcode/tree/master/0784-letter-case-permutation) |
 ## Bit Manipulation
