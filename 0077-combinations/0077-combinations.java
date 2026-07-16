@@ -14,12 +14,15 @@ class Solution {
 
     static void combinations(int a[], List<List<Integer>> l, List<Integer> curr, int n, int i, int k)
     {
-        if(i==n)
+        
+        if(curr.size()==k)
         {
-            if(curr.size()==k)
             l.add(new ArrayList<>(curr));
             return;
         }
+        
+        if(i==n)
+        return;
 
         curr.add(a[i]);
         combinations(a, l, curr, n, i+1, k);
