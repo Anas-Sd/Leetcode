@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/Anas-Sd/Leetcode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/Anas-Sd/Leetcode/tree/master/0046-permutations) |
 | [0090-subsets-ii](https://github.com/Anas-Sd/Leetcode/tree/master/0090-subsets-ii) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Anas-Sd/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/Anas-Sd/Leetcode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/Anas-Sd/Leetcode/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/Anas-Sd/Leetcode/tree/master/0077-combinations) |
 | [0090-subsets-ii](https://github.com/Anas-Sd/Leetcode/tree/master/0090-subsets-ii) |
