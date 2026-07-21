@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/Anas-Sd/Leetcode/tree/master/1731-the-number-of-employees-which-report-to-each-employee) |
 | [1741-find-total-time-spent-by-each-employee](https://github.com/Anas-Sd/Leetcode/tree/master/1741-find-total-time-spent-by-each-employee) |
 | [1795-rearrange-products-table](https://github.com/Anas-Sd/Leetcode/tree/master/1795-rearrange-products-table) |
+| [1890-the-latest-login-in-2020](https://github.com/Anas-Sd/Leetcode/tree/master/1890-the-latest-login-in-2020) |
 | [1907-count-salary-categories](https://github.com/Anas-Sd/Leetcode/tree/master/1907-count-salary-categories) |
 | [3220-odd-and-even-transactions](https://github.com/Anas-Sd/Leetcode/tree/master/3220-odd-and-even-transactions) |
 | [3451-find-invalid-ip-addresses](https://github.com/Anas-Sd/Leetcode/tree/master/3451-find-invalid-ip-addresses) |
