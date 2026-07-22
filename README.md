@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Anas-Sd/Leetcode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/Anas-Sd/Leetcode/tree/master/0046-permutations) |
 | [0090-subsets-ii](https://github.com/Anas-Sd/Leetcode/tree/master/0090-subsets-ii) |
+| [0200-number-of-islands](https://github.com/Anas-Sd/Leetcode/tree/master/0200-number-of-islands) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Anas-Sd/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2706-buy-two-chocolates](https://github.com/Anas-Sd/Leetcode/tree/master/2706-buy-two-chocolates) |
 ## Hash Table
@@ -112,18 +113,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Anas-Sd/Leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Anas-Sd/Leetcode/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/Anas-Sd/Leetcode/tree/master/0841-keys-and-rooms) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Anas-Sd/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Anas-Sd/Leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Anas-Sd/Leetcode/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/Anas-Sd/Leetcode/tree/master/0841-keys-and-rooms) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Anas-Sd/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Anas-Sd/Leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Anas-Sd/Leetcode/tree/master/0547-number-of-provinces) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Anas-Sd/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
@@ -132,4 +136,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Anas-Sd/Leetcode/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/Anas-Sd/Leetcode/tree/master/0841-keys-and-rooms) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Anas-Sd/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
+## Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Anas-Sd/Leetcode/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
