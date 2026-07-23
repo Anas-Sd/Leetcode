@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Anas-Sd/Leetcode/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Anas-Sd/Leetcode/tree/master/0994-rotting-oranges) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Anas-Sd/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
+| [2079-watering-plants](https://github.com/Anas-Sd/Leetcode/tree/master/2079-watering-plants) |
 | [2706-buy-two-chocolates](https://github.com/Anas-Sd/Leetcode/tree/master/2706-buy-two-chocolates) |
 ## Hash Table
 |  |
@@ -148,4 +149,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Anas-Sd/Leetcode/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/Anas-Sd/Leetcode/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Anas-Sd/Leetcode/tree/master/0994-rotting-oranges) |
+## Simulation
+|  |
+| ------- |
+| [2079-watering-plants](https://github.com/Anas-Sd/Leetcode/tree/master/2079-watering-plants) |
 <!---LeetCode Topics End-->
