@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Anas-Sd/Leetcode/tree/master/0070-climbing-stairs) |
+| [0322-coin-change](https://github.com/Anas-Sd/Leetcode/tree/master/0322-coin-change) |
 | [0509-fibonacci-number](https://github.com/Anas-Sd/Leetcode/tree/master/0509-fibonacci-number) |
 | [1025-divisor-game](https://github.com/Anas-Sd/Leetcode/tree/master/1025-divisor-game) |
 ## Brainteaser
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/Anas-Sd/Leetcode/tree/master/0046-permutations) |
 | [0090-subsets-ii](https://github.com/Anas-Sd/Leetcode/tree/master/0090-subsets-ii) |
 | [0200-number-of-islands](https://github.com/Anas-Sd/Leetcode/tree/master/0200-number-of-islands) |
+| [0322-coin-change](https://github.com/Anas-Sd/Leetcode/tree/master/0322-coin-change) |
 | [0733-flood-fill](https://github.com/Anas-Sd/Leetcode/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Anas-Sd/Leetcode/tree/master/0994-rotting-oranges) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Anas-Sd/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Anas-Sd/Leetcode/tree/master/0200-number-of-islands) |
+| [0322-coin-change](https://github.com/Anas-Sd/Leetcode/tree/master/0322-coin-change) |
 | [0547-number-of-provinces](https://github.com/Anas-Sd/Leetcode/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Anas-Sd/Leetcode/tree/master/0733-flood-fill) |
 | [0841-keys-and-rooms](https://github.com/Anas-Sd/Leetcode/tree/master/0841-keys-and-rooms) |
