@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Anas-Sd/Leetcode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Anas-Sd/Leetcode/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/Anas-Sd/Leetcode/tree/master/0322-coin-change) |
+| [0455-assign-cookies](https://github.com/Anas-Sd/Leetcode/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Anas-Sd/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0733-flood-fill](https://github.com/Anas-Sd/Leetcode/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Anas-Sd/Leetcode/tree/master/0994-rotting-oranges) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/Anas-Sd/Leetcode/tree/master/0455-assign-cookies) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Anas-Sd/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Binary Search
 |  |
@@ -83,12 +85,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/Anas-Sd/Leetcode/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Anas-Sd/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Anas-Sd/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2706-buy-two-chocolates](https://github.com/Anas-Sd/Leetcode/tree/master/2706-buy-two-chocolates) |
 ## Greedy
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/Anas-Sd/Leetcode/tree/master/0455-assign-cookies) |
 | [2706-buy-two-chocolates](https://github.com/Anas-Sd/Leetcode/tree/master/2706-buy-two-chocolates) |
 ## String
 |  |
