@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Anas-Sd/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1935-maximum-number-of-words-you-can-type](https://github.com/Anas-Sd/Leetcode/tree/master/1935-maximum-number-of-words-you-can-type) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Anas-Sd/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3731-find-missing-elements](https://github.com/Anas-Sd/Leetcode/tree/master/3731-find-missing-elements) |
 ## Two Pointers
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0168-excel-sheet-column-title](https://github.com/Anas-Sd/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0784-letter-case-permutation](https://github.com/Anas-Sd/Leetcode/tree/master/0784-letter-case-permutation) |
+| [1935-maximum-number-of-words-you-can-type](https://github.com/Anas-Sd/Leetcode/tree/master/1935-maximum-number-of-words-you-can-type) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Anas-Sd/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Anas-Sd/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Recursion
