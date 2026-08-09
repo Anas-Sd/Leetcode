@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0184-department-highest-salary](https://github.com/Anas-Sd/Leetcode/tree/master/0184-department-highest-salary) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/Anas-Sd/Leetcode/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [1045-customers-who-bought-all-products](https://github.com/Anas-Sd/Leetcode/tree/master/1045-customers-who-bought-all-products) |
+| [1193-monthly-transactions-i](https://github.com/Anas-Sd/Leetcode/tree/master/1193-monthly-transactions-i) |
 | [1211-queries-quality-and-percentage](https://github.com/Anas-Sd/Leetcode/tree/master/1211-queries-quality-and-percentage) |
 | [1251-average-selling-price](https://github.com/Anas-Sd/Leetcode/tree/master/1251-average-selling-price) |
 | [1517-find-users-with-valid-e-mails](https://github.com/Anas-Sd/Leetcode/tree/master/1517-find-users-with-valid-e-mails) |
