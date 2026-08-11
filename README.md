@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1193-monthly-transactions-i](https://github.com/Anas-Sd/Leetcode/tree/master/1193-monthly-transactions-i) |
 | [1211-queries-quality-and-percentage](https://github.com/Anas-Sd/Leetcode/tree/master/1211-queries-quality-and-percentage) |
 | [1251-average-selling-price](https://github.com/Anas-Sd/Leetcode/tree/master/1251-average-selling-price) |
+| [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Anas-Sd/Leetcode/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1517-find-users-with-valid-e-mails](https://github.com/Anas-Sd/Leetcode/tree/master/1517-find-users-with-valid-e-mails) |
 | [1587-bank-account-summary-ii](https://github.com/Anas-Sd/Leetcode/tree/master/1587-bank-account-summary-ii) |
 | [1633-percentage-of-users-attended-a-contest](https://github.com/Anas-Sd/Leetcode/tree/master/1633-percentage-of-users-attended-a-contest) |
