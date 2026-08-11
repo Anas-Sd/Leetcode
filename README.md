@@ -81,12 +81,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/Anas-Sd/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2079-watering-plants](https://github.com/Anas-Sd/Leetcode/tree/master/2079-watering-plants) |
 | [2706-buy-two-chocolates](https://github.com/Anas-Sd/Leetcode/tree/master/2706-buy-two-chocolates) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Anas-Sd/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/Anas-Sd/Leetcode/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
 | ------- |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Anas-Sd/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/Anas-Sd/Leetcode/tree/master/1935-maximum-number-of-words-you-can-type) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Anas-Sd/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Anas-Sd/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3731-find-missing-elements](https://github.com/Anas-Sd/Leetcode/tree/master/3731-find-missing-elements) |
 ## Two Pointers
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Anas-Sd/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Anas-Sd/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2706-buy-two-chocolates](https://github.com/Anas-Sd/Leetcode/tree/master/2706-buy-two-chocolates) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Anas-Sd/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Anas-Sd/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3731-find-missing-elements](https://github.com/Anas-Sd/Leetcode/tree/master/3731-find-missing-elements) |
 ## Greedy
