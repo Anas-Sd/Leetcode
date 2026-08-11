@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Anas-Sd/Leetcode/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/Anas-Sd/Leetcode/tree/master/1025-divisor-game) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Anas-Sd/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1510-stone-game-iv](https://github.com/Anas-Sd/Leetcode/tree/master/1510-stone-game-iv) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Anas-Sd/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Anas-Sd/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Anas-Sd/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/Anas-Sd/Leetcode/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/Anas-Sd/Leetcode/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/Anas-Sd/Leetcode/tree/master/1025-divisor-game) |
+| [1510-stone-game-iv](https://github.com/Anas-Sd/Leetcode/tree/master/1510-stone-game-iv) |
 ## Brainteaser
 |  |
 | ------- |
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0877-stone-game](https://github.com/Anas-Sd/Leetcode/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/Anas-Sd/Leetcode/tree/master/1025-divisor-game) |
+| [1510-stone-game-iv](https://github.com/Anas-Sd/Leetcode/tree/master/1510-stone-game-iv) |
 ## Array
 |  |
 | ------- |
@@ -255,4 +258,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Anas-Sd/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+## Minimax
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/Anas-Sd/Leetcode/tree/master/1510-stone-game-iv) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/Anas-Sd/Leetcode/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/Anas-Sd/Leetcode/tree/master/1510-stone-game-iv) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/Anas-Sd/Leetcode/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
