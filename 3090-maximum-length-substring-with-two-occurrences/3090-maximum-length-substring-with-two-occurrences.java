@@ -2,7 +2,6 @@ class Solution {
     public int maximumLengthSubstring(String s) {
         int n = s.length();
         Map<Character, Integer> map = new HashMap<>();
-        Set<Character> set = new HashSet<>();
         int len=0, max=-1, j=0;
         for(int i=0;i<n;)
         {
