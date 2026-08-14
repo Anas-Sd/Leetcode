@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/Anas-Sd/Leetcode/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0595-big-countries](https://github.com/Anas-Sd/Leetcode/tree/master/0595-big-countries) |
 | [0596-classes-with-at-least-5-students](https://github.com/Anas-Sd/Leetcode/tree/master/0596-classes-with-at-least-5-students) |
+| [0610-triangle-judgement](https://github.com/Anas-Sd/Leetcode/tree/master/0610-triangle-judgement) |
 | [1045-customers-who-bought-all-products](https://github.com/Anas-Sd/Leetcode/tree/master/1045-customers-who-bought-all-products) |
 | [1148-article-views-i](https://github.com/Anas-Sd/Leetcode/tree/master/1148-article-views-i) |
 | [1193-monthly-transactions-i](https://github.com/Anas-Sd/Leetcode/tree/master/1193-monthly-transactions-i) |
