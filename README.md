@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Anas-Sd/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/Anas-Sd/Leetcode/tree/master/3731-find-missing-elements) |
 | [3903-smallest-stable-index-i](https://github.com/Anas-Sd/Leetcode/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/Anas-Sd/Leetcode/tree/master/3904-smallest-stable-index-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -303,4 +304,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3903-smallest-stable-index-i](https://github.com/Anas-Sd/Leetcode/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/Anas-Sd/Leetcode/tree/master/3904-smallest-stable-index-ii) |
 <!---LeetCode Topics End-->
