@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Anas-Sd/Leetcode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/Anas-Sd/Leetcode/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/Anas-Sd/Leetcode/tree/master/0048-rotate-image) |
+| [0073-set-matrix-zeroes](https://github.com/Anas-Sd/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0090-subsets-ii](https://github.com/Anas-Sd/Leetcode/tree/master/0090-subsets-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Anas-Sd/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0198-house-robber](https://github.com/Anas-Sd/Leetcode/tree/master/0198-house-robber) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/Anas-Sd/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Anas-Sd/Leetcode/tree/master/0013-roman-to-integer) |
+| [0073-set-matrix-zeroes](https://github.com/Anas-Sd/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Anas-Sd/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/Anas-Sd/Leetcode/tree/master/1935-maximum-number-of-words-you-can-type) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Anas-Sd/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Anas-Sd/Leetcode/tree/master/0048-rotate-image) |
+| [0073-set-matrix-zeroes](https://github.com/Anas-Sd/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0200-number-of-islands](https://github.com/Anas-Sd/Leetcode/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/Anas-Sd/Leetcode/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Anas-Sd/Leetcode/tree/master/0994-rotting-oranges) |
