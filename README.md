@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Anas-Sd/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0039-combination-sum](https://github.com/Anas-Sd/Leetcode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/Anas-Sd/Leetcode/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/Anas-Sd/Leetcode/tree/master/0048-rotate-image) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/Anas-Sd/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Anas-Sd/Leetcode/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/Anas-Sd/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0168-excel-sheet-column-title](https://github.com/Anas-Sd/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0784-letter-case-permutation](https://github.com/Anas-Sd/Leetcode/tree/master/0784-letter-case-permutation) |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/Anas-Sd/Leetcode/tree/master/1935-maximum-number-of-words-you-can-type) |
@@ -320,4 +322,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Anas-Sd/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Anas-Sd/Leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
