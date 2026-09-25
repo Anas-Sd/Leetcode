@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Anas-Sd/Leetcode/tree/master/0455-assign-cookies) |
 | [0500-keyboard-row](https://github.com/Anas-Sd/Leetcode/tree/master/0500-keyboard-row) |
 | [0506-relative-ranks](https://github.com/Anas-Sd/Leetcode/tree/master/0506-relative-ranks) |
+| [0575-distribute-candies](https://github.com/Anas-Sd/Leetcode/tree/master/0575-distribute-candies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Anas-Sd/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0733-flood-fill](https://github.com/Anas-Sd/Leetcode/tree/master/0733-flood-fill) |
 | [0877-stone-game](https://github.com/Anas-Sd/Leetcode/tree/master/0877-stone-game) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Anas-Sd/Leetcode/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/Anas-Sd/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0500-keyboard-row](https://github.com/Anas-Sd/Leetcode/tree/master/0500-keyboard-row) |
+| [0575-distribute-candies](https://github.com/Anas-Sd/Leetcode/tree/master/0575-distribute-candies) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Anas-Sd/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/Anas-Sd/Leetcode/tree/master/1935-maximum-number-of-words-you-can-type) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Anas-Sd/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
