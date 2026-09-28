@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/Anas-Sd/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0500-keyboard-row](https://github.com/Anas-Sd/Leetcode/tree/master/0500-keyboard-row) |
 | [0784-letter-case-permutation](https://github.com/Anas-Sd/Leetcode/tree/master/0784-letter-case-permutation) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Anas-Sd/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/Anas-Sd/Leetcode/tree/master/1935-maximum-number-of-words-you-can-type) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Anas-Sd/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Anas-Sd/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -300,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/Anas-Sd/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Anas-Sd/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Anas-Sd/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Anas-Sd/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Counting
 |  |
 | ------- |
@@ -343,4 +345,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0506-relative-ranks](https://github.com/Anas-Sd/Leetcode/tree/master/0506-relative-ranks) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Anas-Sd/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
