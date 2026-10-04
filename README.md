@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Anas-Sd/Leetcode/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/Anas-Sd/Leetcode/tree/master/0038-count-and-say) |
 | [0168-excel-sheet-column-title](https://github.com/Anas-Sd/Leetcode/tree/master/0168-excel-sheet-column-title) |
+| [0434-number-of-segments-in-a-string](https://github.com/Anas-Sd/Leetcode/tree/master/0434-number-of-segments-in-a-string) |
 | [0500-keyboard-row](https://github.com/Anas-Sd/Leetcode/tree/master/0500-keyboard-row) |
 | [0784-letter-case-permutation](https://github.com/Anas-Sd/Leetcode/tree/master/0784-letter-case-permutation) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Anas-Sd/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
