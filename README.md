@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/Anas-Sd/Leetcode/tree/master/0994-rotting-oranges) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Anas-Sd/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2079-watering-plants](https://github.com/Anas-Sd/Leetcode/tree/master/2079-watering-plants) |
+| [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Anas-Sd/Leetcode/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2706-buy-two-chocolates](https://github.com/Anas-Sd/Leetcode/tree/master/2706-buy-two-chocolates) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Anas-Sd/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Anas-Sd/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -264,10 +265,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Anas-Sd/Leetcode/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/Anas-Sd/Leetcode/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Anas-Sd/Leetcode/tree/master/0994-rotting-oranges) |
+| [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Anas-Sd/Leetcode/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 ## Simulation
 |  |
 | ------- |
 | [2079-watering-plants](https://github.com/Anas-Sd/Leetcode/tree/master/2079-watering-plants) |
+| [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Anas-Sd/Leetcode/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [3498-reverse-degree-of-a-string](https://github.com/Anas-Sd/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3925-concatenate-array-with-reverse](https://github.com/Anas-Sd/Leetcode/tree/master/3925-concatenate-array-with-reverse) |
 ## Divide and Conquer
