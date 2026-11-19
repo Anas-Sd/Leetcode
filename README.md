@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Anas-Sd/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/Anas-Sd/Leetcode/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3870-count-commas-in-range](https://github.com/Anas-Sd/Leetcode/tree/master/3870-count-commas-in-range) |
+| [3945-digit-frequency-score](https://github.com/Anas-Sd/Leetcode/tree/master/3945-digit-frequency-score) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Anas-Sd/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Anas-Sd/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3731-find-missing-elements](https://github.com/Anas-Sd/Leetcode/tree/master/3731-find-missing-elements) |
+| [3945-digit-frequency-score](https://github.com/Anas-Sd/Leetcode/tree/master/3945-digit-frequency-score) |
 ## Two Pointers
 |  |
 | ------- |
