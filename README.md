@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Anas-Sd/Leetcode/tree/master/0733-flood-fill) |
 | [0877-stone-game](https://github.com/Anas-Sd/Leetcode/tree/master/0877-stone-game) |
 | [0994-rotting-oranges](https://github.com/Anas-Sd/Leetcode/tree/master/0994-rotting-oranges) |
+| [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/Anas-Sd/Leetcode/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Anas-Sd/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2079-watering-plants](https://github.com/Anas-Sd/Leetcode/tree/master/2079-watering-plants) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Anas-Sd/Leetcode/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Anas-Sd/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0500-keyboard-row](https://github.com/Anas-Sd/Leetcode/tree/master/0500-keyboard-row) |
 | [0575-distribute-candies](https://github.com/Anas-Sd/Leetcode/tree/master/0575-distribute-candies) |
+| [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/Anas-Sd/Leetcode/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Anas-Sd/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/Anas-Sd/Leetcode/tree/master/1935-maximum-number-of-words-you-can-type) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Anas-Sd/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/Anas-Sd/Leetcode/tree/master/0455-assign-cookies) |
+| [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/Anas-Sd/Leetcode/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [2706-buy-two-chocolates](https://github.com/Anas-Sd/Leetcode/tree/master/2706-buy-two-chocolates) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Anas-Sd/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Anas-Sd/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
